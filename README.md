@@ -8,4 +8,9 @@ December Weather![DecTemps](https://user-images.githubusercontent.com/88520929/1
 June Weather![JuneTemps](https://user-images.githubusercontent.com/88520929/137648764-236b6ed4-5251-4b96-98c7-019adf4271db.PNG)
 
 ## Summary
-The difference between the mean temperatures for December and June is about 5 degrees. Relatively, having a 5 degree temperature difference in the higher temperature ranges should not make surfing less viable. Further analysis should be conducted based on other factors such as precipitation to gain more insight whether or not its viable to keep the surf shop open year-round.
+Differences between December and June temperatures:
+- Mean for December is 71.041529, mean for June is 74.944118.
+- Standard deviation for December is 3.745920, standard deviation for June is 3.257417
+- Count of data points for December is 1517, count of data points for June is 1700.
+
+The difference between the mean temperatures for December and June is about 5 degrees. The standard deviations are very similar for the two months comparison. The difference between the data counts is negligible based on the amount of the data points. Relatively, having a 5 degree temperature difference in the higher temperature ranges should not make surfing less viable. Further analysis should be conducted based on other factors such as precipitation to gain more insight whether or not its viable to keep the surf shop open year-round.
